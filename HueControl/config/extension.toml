@@ -3,29 +3,28 @@
 version = "1.0.0"
 authors = ["Xiaoming Yang"]
 # The title and description fields are primarily for displaying extension info in UI
-title = "Philips Hue Control"
-description="This extension displays IES profiles for selected light objects."
+title = "Hue Control"
+description="This extension Control Philips Hue light from Omniverse. Lighting design in Omniverse could be synchronised to real lights in real time."
 
 # Path (relative to the root) or content of readme markdown file for UI.
 readme  = "docs/README.md"
 
 # URL of the extension source repository.
-repository = "https://github.com/XiaomingY/omni-ies-viewer"
+repository = "https://github.com/XiaomingY/omni-hue-control"
 
 # One of categories for UI.
 category = "Lighting"
 
 # Keywords for the extension
-keywords = ["Lighting", "IES"]
+keywords = ["Lighting", "Hue"]
 changelog = "docs/CHANGELOG.md"
-preview_image = "data/preview.png"
+preview_image = "data/HueControlScene.PNG"
 icon = "data/icon.png"
 
 # Use omni.ui to build simple UI
 [dependencies]
 "omni.ui.scene" = {  }
 "omni.usd" = {  }
-"omni.kit.viewport.utility" = {  }
 
 # Main python module this extension provides, it will be publicly available as "import AimingTool".
 [[python.module]]
