@@ -2,7 +2,7 @@
 
 ![](./HueControl/data/HueControl.PNG)
 
-Control Philips Hue light from Omniverse. Lighting design in Omniverse could be synchronized to real lights in real-time. [A Demo Scene Video] (https://drive.google.com/file/d/1BWQgWVu4T0rXupruMsbKTWwS7uA_RJek/view?usp=sharing)
+Control Philips Hue light from Omniverse. Lighting design in Omniverse could be synchronized to real lights in real-time. [A Demo Scene Video]  (https://drive.google.com/file/d/1BWQgWVu4T0rXupruMsbKTWwS7uA_RJek/view?usp=sharing)
 
 Using the physical accurate Iray render, Omniverse could be a powerful lighting design platform. Lighting design with Philips Hue light in Omniverse could be synchronized to real-world light using [Hue API V2]. (https://developers.meethue.com/develop/hue-api-v2/getting-started/)
 
