@@ -1,6 +1,6 @@
 # omni-hue-control
 
-![](./HueControl/data/HueControl.PNG)
+![](./exts/HueControl/data/HueControl.PNG)
 
 Control Philips Hue light from Omniverse. Lighting design in Omniverse could be synchronized to real lights in real-time. [A Demo Scene Video](https://drive.google.com/file/d/1BWQgWVu4T0rXupruMsbKTWwS7uA_RJek/view?usp=sharing)
 
@@ -8,7 +8,7 @@ Using the physical accurate Iray render, Omniverse could be a powerful lighting 
 
 ## Using this Extension
 
-![](./HueControl/data/HueControl_Interface.png)
+![](./exts/HueControl/data/HueControl_Interface.png)
 
 1. Add Hue Bridge information. For getting the user name, please follow this [guide](https://developers.meethue.com/develop/hue-api-v2/getting-started/)
 With correct IP and user name, the extension will search the hue network and list all the luminaires. Please take a note of their corresponding Hue ID.
@@ -22,4 +22,4 @@ To add a this extension to your Omniverse app:
 1. Add `git://github.com/XiaomingY/omni-hue-control.git?branch=main` to extension search path
 2. Turn on HueControl
 
-![](./HueControl/data/HueControlScene.PNG)
+![](./exts/HueControl/data/HueControlScene.PNG)
