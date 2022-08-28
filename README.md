@@ -19,7 +19,7 @@ With correct IP and user name, the extension will search the hue network and lis
 ## Adding This Extension
 
 To add a this extension to your Omniverse app:
-1. Add `git://github.com/XiaomingY/omni-hue-control.git?branch=main` to extension search path
+1. Add `git://github.com/XiaomingY/omni-hue-control.git?branch=main&dir=exts` to extension search path
 2. Turn on HueControl
 
 ![](./exts/HueControl/data/HueControlScene.PNG)
